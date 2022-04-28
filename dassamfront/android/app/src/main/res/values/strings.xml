@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dassam</string>
+    <string name="title_activity_main">Dassam</string>
+    <string name="package_name">dassam.net.tetereou</string>
+    <string name="custom_url_scheme">dassam.net.tetereou</string>
+</resources>
